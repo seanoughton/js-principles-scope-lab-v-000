@@ -1,2 +1,5 @@
 // Write your solution in this file!
-let customerName = 'bob'
+function customerName(){
+  let customerName = 'bob'
+}
+
